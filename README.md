@@ -1,0 +1,1 @@
+Hi! This notebook involves implementation of Linear Regression (Simple, multi and Polynomial Regression) and Logistic Regression(Binary and multinomial Logistic Regression). The datasets used in Linear regression and Binary Logistic Regression is taken from kaggle and in multinomial regression I used iris dataset form sklearn.datasets
